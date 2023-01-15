@@ -359,6 +359,7 @@ footer {
 
 @media screen and (max-width: 556px) {
   /*Header Part*/
+
   header {
     height: 500px;
   }
@@ -448,7 +449,7 @@ footer {
   /*Section OneB Part*/
 
   .section1b {
-    height: 1650px;
+    height: 1700px;
   }
   .section1b-1 {
     display: flex;
@@ -461,6 +462,9 @@ footer {
   .section2b-1 p {
     font-size: 15px;
   }
+  .section2b-1 p br {
+    display: none;
+  }
   .section3b-2 {
     margin: 10px;
   }
@@ -469,6 +473,9 @@ footer {
   }
   .section4b p {
     font-size: 13px;
+  }
+  .section4b-2 h1 br {
+    display: none;
   }
   .section2b-2 {
     display: flex;
@@ -509,6 +516,9 @@ footer {
   .section1c-1 p {
     font-size: 14px;
   }
+  .section1c-1 p br {
+    display: none;
+  }
   .section1c-2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -530,7 +540,7 @@ footer {
 
   /*Section OneD Part*/
   .section1d {
-    height: 1450px;
+    height: 1500px;
   }
   .section1d-1 h1 {
     font-size: 45px;
@@ -566,6 +576,9 @@ footer {
   }
   .section1e-1 p {
     font-size: 13px;
+  }
+  .section1e-1 p br {
+    display: none;
   }
   .section1e-2 {
     gap: 15px;
