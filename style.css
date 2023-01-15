@@ -456,15 +456,13 @@ footer {
   }
   .section2b-1 {
     padding-top: 0;
+    margin-left: 10px;
   }
   .section2b-1 p {
     font-size: 15px;
   }
   .section2b-1 p br {
     display: none;
-  }
-  .section3b-1 {
-    margin-left: 10px;
   }
   .section3b-2 {
     margin: 10px;
