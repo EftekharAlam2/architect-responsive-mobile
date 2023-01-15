@@ -359,10 +359,6 @@ footer {
 
 @media screen and (max-width: 556px) {
   /*Header Part*/
-
-  .hide {
-    display: none;
-  }
   header {
     height: 500px;
   }
@@ -395,6 +391,11 @@ footer {
   }
   .header2-1 p {
     font-size: 13px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .header2-1 p br {
+    display: none;
   }
   .header2-2 button {
     width: 90px;
